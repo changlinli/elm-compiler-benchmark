@@ -1,6 +1,9 @@
 # elm-package generated files
 elm-stuff/
+zokka-stuff
 # elm-repl generated files
 repl-temp-*
 
 elm.js
+
+generated
